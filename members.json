@@ -1,0 +1,23 @@
+[
+  {
+    "email": "user1@xyz.com",
+    "first_name": "Bob",
+    "last_name": "Smith",
+    "number_of_workouts": 5,
+    "last_workout": "03/04/2023"
+  },
+  {
+    "email": "user2@xyz.com",
+    "first_name": "Kim",
+    "last_name": "Thompson",
+    "number_of_workouts": 15,
+    "last_workout": "03/07/2023"
+  },
+    {
+    "email": "user3@xyz.com",
+    "first_name": "Jack",
+    "last_name": "Jackson",
+    "number_of_workouts": 0,
+    "last_workout": ""
+  }
+]
